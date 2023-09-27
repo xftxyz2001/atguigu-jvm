@@ -16,6 +16,7 @@
 
 
 ## JVM上篇：内存与垃圾回收篇
+- [PPT](./JVM上篇：内存与垃圾回收篇/)
 - Java语言和虚拟机规范 [官方链接](https://docs.oracle.com/javase/specs/index.html)
   - [Wiki](./Java语言和虚拟机规范/List%20of%20JVM%20languages%20-%20Wikipedia.pdf)
   - [Java白皮书中的内存管理](./Java语言和虚拟机规范/Memory%20Management%20in%20the%20Java-whitepaper.pdf)
@@ -52,5 +53,6 @@
 ## 链接
 - [视频教程B站链接](https://www.bilibili.com/video/BV1PJ411n7xZ/)
 - [youthlql的Java技术栈的文章](https://github.com/youthlql/JavaYouth)
+- [宋红康版JVM笔记](https://blog.csdn.net/qq_42449963/article/details/113965228)
 - [部分软件下载](https://txyz.lanzoue.com/b03qthcwf) 密码:88ka
 
